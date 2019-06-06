@@ -142,7 +142,7 @@ python manage.py runserver
 ## how to use django_custom_user_model
 django_custom_user_model is the repository about how to make and use Custom User Model in django. there are blog posts about this repository. if you want to know more details, see the link below.
 
-- [django Customm User Model](https://dev-yakuza.github.io/en/django/custom_user_model/)
+- [django Customm User Model](https://dev-yakuza.github.io/en/django/custom-user-model/)
 
 ### How to use
 execute the command below to clone the django_custom_user_model repository.
